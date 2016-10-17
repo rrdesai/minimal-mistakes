@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Optimizing with MTA data"
 date: 2016-09-27
 categories:
